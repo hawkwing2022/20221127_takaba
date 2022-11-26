@@ -1,0 +1,47 @@
+.topnavi{
+  position: relative;
+  width:1000px;
+  padding:20px 26px;
+}
+.topnavi__header_left{
+  text-align: left;
+  font-size: 21px;
+  font-weight: bold;
+  color:#333388;
+  display:inline-block;
+}
+.topnavi__header_right{
+  font-size: 14.5px;
+  display:inline-block;
+  position:relative;
+  left: 57.5vw;
+}
+li{
+  display:inline-block;
+  margin: 0 10px;
+}
+.top{
+  position:relative;
+}
+.top__copy{
+  font-size: 62px;
+  position:relative;
+  top:360px;
+  display:inline-block;
+}
+.top__colorbar{
+  width:75%;
+  height:176px;
+  background-color: #192979;
+  display:block;
+  position:relative;
+  top:360px;
+}
+.top__img img {
+  width: 640px;
+  height: 430px;
+  display: inline-block;
+  position: relative;
+  left:50%;
+  bottom:9.7em;
+}
