@@ -37,11 +37,16 @@ li{
   position:relative;
   top:360px;
 }
-.top__img img {
+.top__img{
   width: 640px;
-  height: 430px;
+  height: 420px;
   display: inline-block;
-  position: relative;
+  position: absolute;
+  top:5.5em;
   left:50%;
-  bottom:9.7em;
+}
+.top__img__file{
+  width: 100%;
+  height: 100%;
+  display: block;
 }
